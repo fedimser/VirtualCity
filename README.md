@@ -36,8 +36,8 @@ This app is part of my graduation project at [high school](https://www.dlit.dp.u
 
 I prepared two versions of documentation for this project (both in Ukrainian):
 
-* Report which I submitted to comission when I was presenting my project ([pdf](https://github.com/fedimser/fedimser.github.io/raw/master/download/articles/Fedoriaka2013CityModellingReport.pdf));
-* Journal-style paper ([pdf](https://github.com/fedimser/fedimser.github.io/raw/master/download/articles/CityModelling2013.pdf)).
+* Report which I submitted to comission when I was presenting my project ([pdf](https://fedimser.github.io/download/articles/Fedoriaka2013CityModellingReport.pdf));
+* Journal-style paper ([pdf](https://fedimser.github.io/download/articles/CityModelling2013.pdf)).
 
 ## Acknowledgements
 
